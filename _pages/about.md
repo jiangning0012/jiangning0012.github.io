@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year doctoral student from [Nanjing University](https://www.nju.edu.cn/).
-My research interest includes edge computing and video analytics.
+I received the BS degree from the Department of Computer Science and Technology, Nanjing University, Nanjing, China, in 2023, where I am currently working towards the PhD degree under the supervision of associate professor Sheng Zhang. He is a member of the State Key Laboratory for Novel Software Technology. My research interests include edge computing and video analytics.
